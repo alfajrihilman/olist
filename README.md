@@ -16,7 +16,9 @@ This data warehouse is created to help stakeholders to do these analyses:
 4. Delivery Performance Optimization
 
 Thus, we designed an ERD of the Final Data Warehouse.
+
 ![erd drawio](https://github.com/user-attachments/assets/2ae03aae-9f81-4984-a34d-850823eac0ba)
+
 
 In the data warehouse, there will be 3 schemas, which are
 - Public, containing the raw data from the data source
